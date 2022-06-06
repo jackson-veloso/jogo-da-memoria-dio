@@ -13,6 +13,22 @@ body {
    font-family: 'Quicksand';
 }
 
+header {
+    height: 10vh;
+    width: 10vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+h1 {
+    color: #e5e8e8;
+    text-align: center;
+    width: 100%;
+    height: 10vh;
+
+}
 .memory-game {
     height: 640px;
     width: 640px;
